@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=VGv2_7sCkAc
+
+npm init -y
+npm i live-server
+	"scripts": {
+   	 "dev": "live-server public"
+npm i babel-cli babel-preset-react babel-preset-env
